@@ -1,5 +1,5 @@
 <p align = "center">
-<h2>Jiwon Kim</h2>
+<h1>Jiwon Kim</h1>
 <p><em>FrontEnd Developer</em></p>
 </p>
 
