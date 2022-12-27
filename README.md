@@ -4,6 +4,7 @@
 <li>React</li>
 <li>Typescript</li>
 <li>Next.js</li>
+<li>React-query</li>
 <li>@emotion</li>
 </ul>
 <h2>🔧 Tools</h2>
