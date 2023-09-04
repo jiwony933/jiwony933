@@ -14,6 +14,6 @@
 </ul>
 <h2>📒  Tech Blog</h2>
 <ul>
-<li><a href="https://velog.io/@jiwonyyy">velog/@jiwonyyy</a></li>
+<li><a href="https://jiwonyyy.site">jiwonyyy.site</a></li>
 </ul>
 </p>
