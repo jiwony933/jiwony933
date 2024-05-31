@@ -1,5 +1,5 @@
 <p align = "center">
-<h2>💻  Main Techs</h2>
+<!-- <h2>💻  Main Techs</h2>
 <ul>
 <li>React</li>
 <li>Typescript</li>
@@ -11,9 +11,9 @@
 <ul>
 <li>Slack</li>
 <li>Notion</li>
-</ul>
-<h2>📒  Tech Blog</h2>
+</ul> -->
+<!-- <h2>📒  Tech Blog</h2>
 <ul>
 <li><a href="https://jiwonyyy.site">jiwonyyy.site</a></li>
-</ul>
+</ul> -->
 </p>
